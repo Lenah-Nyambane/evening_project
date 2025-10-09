@@ -1,1 +1,1 @@
-print("Hello world by Python SCM Poll2")
+print "Hello world by Python SCM Poll2")
